@@ -20,7 +20,7 @@ process.stdin.on('end', _ => {
 function readLine() {
     return inputString[currentLine++];
 }
-
+ 
 /*
  * Complete the reverseString function
  * Use console.log() to print to stdout.
