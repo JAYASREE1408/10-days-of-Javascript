@@ -14,7 +14,7 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
+     
     main();    
 });
 
