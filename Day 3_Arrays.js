@@ -15,3 +15,4 @@ function getSecondLargest(nums) {
     return max1;
 }
  
+
