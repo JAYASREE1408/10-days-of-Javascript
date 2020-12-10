@@ -5,7 +5,7 @@ function getSecondLargest(nums) {
         if(max<i){
             max=i;
         }
-    }
+    } 
     let max1=0;
     for(let i of nums){
         if(max1<i && i<max){
