@@ -1,6 +1,6 @@
 function getSecondLargest(nums) {
     // getting the maximum value  
-    let max=0; 
+    let max=0;  
     for(let i of nums){
         if(max<i){
             max=i;
