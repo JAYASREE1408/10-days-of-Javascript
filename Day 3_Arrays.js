@@ -1,5 +1,5 @@
 function getSecondLargest(nums) {
-    // getting the maximum value
+    // getting the maximum value  
     let max=0;
     for(let i of nums){
         if(max<i){
